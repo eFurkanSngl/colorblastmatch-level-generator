@@ -67,18 +67,6 @@ Bu repoda sadece **authoring (level uretim) tarafi** bulunur.
 
 ## Demo (GIF/Video)
 
-README'de GIF gostermek icin:
-
-```md
-![Level Generator Demo](docs/media/level-generator.gif)
-```
-
-Video paylasmak icin (link):
-
-```md
-[Demo Video](docs/media/level-generator-demo.mp4)
-```
-
 Ornek ekran goruntusu:
 
 <img width="534" height="1115" alt="image" src="https://github.com/user-attachments/assets/c7287a02-3c6c-49eb-a3f4-b64171e4c082" />
