@@ -1,4 +1,4 @@
-# ColorBlastMatch Level Generator
+#Level Generator
 
 Unity-based level authoring toolkit extracted from the ColorBlastMatch project.
 
