@@ -89,3 +89,7 @@ Add video link:
 Example screenshot:
 
 <img width="534" height="1115" alt="image" src="https://github.com/user-attachments/assets/c7287a02-3c6c-49eb-a3f4-b64171e4c082" />
+
+https://github.com/user-attachments/assets/8d241cb6-fdd5-4b9d-b23f-3d7cd3ae6ba8
+
+
