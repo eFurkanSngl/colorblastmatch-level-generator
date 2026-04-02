@@ -72,19 +72,7 @@ This keeps runtime match/destroy/gravity systems modular and easier to maintain.
 2. Read level data (`active cells`, `obstacles`, seed if needed).
 3. Spawn tiles at runtime using your tile pool/spawner.
 
-## Demo (GIF / Video)
 
-Add GIF:
-
-```md
-![Level Generator Demo](docs/media/level-generator.gif)
-```
-
-Add video link:
-
-```md
-[Demo Video](docs/media/level-generator-demo.mp4)
-```
 
 Example screenshot:
 
